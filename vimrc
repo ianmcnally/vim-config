@@ -87,6 +87,15 @@ else
   Plugin 'tpope/vim-projectionist'
   Plugin 'kien/rainbow_parentheses.vim'
   Plugin 'sbdchd/neoformat'
+  Plugin 'mattn/emmet-vim'
+  Plugin 'Julian/vim-textobj-brace'
+  Plugin 'kana/vim-textobj-function'
+  Plugin 'glts/vim-textobj-indblock'
+  Plugin 'vimtaku/vim-textobj-keyvalue'
+  Plugin 'jasonlong/vim-textobj-css'
+  Plugin 'bps/vim-textobj-python'
+  Plugin 'tek/vim-textobj-ruby'
+  Plugin 'Valloric/YouCompleteMe'
 
   "
   " Window Management
