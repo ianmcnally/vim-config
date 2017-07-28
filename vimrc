@@ -1,4 +1,4 @@
-" ----------
+ ----------
 " Vim Config
 " ----------
 "
@@ -63,7 +63,6 @@ else
   Plugin 'tpope/vim-unimpaired'
   Plugin 'sjl/gundo.vim'
   Plugin 'godlygeek/tabular'
-  Plugin 'scrooloose/syntastic'
   Plugin 'vim-airline/vim-airline'
   Plugin 'vim-airline/vim-airline-themes'
   Plugin 'ervandew/supertab'
@@ -94,6 +93,8 @@ else
   Plugin 'bps/vim-textobj-python'
   Plugin 'tek/vim-textobj-ruby'
   Plugin 'Valloric/YouCompleteMe'
+  Plugin 'mitermayer/vim-prettier'
+  Plugin 'w0rp/ale'
 
   "
   " Window Management
@@ -108,6 +109,7 @@ else
   Plugin 'tpope/vim-abolish'
   Plugin 'henrik/vim-qargs'
   Plugin 'ctrlpvim/ctrlp.vim'
+  Plugin 'rizzatti/dash.vim'
 
   "
   " Navigation
