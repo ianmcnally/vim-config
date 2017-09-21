@@ -32,7 +32,7 @@ else
   Plugin 'tpope/vim-vividchalk'
   Plugin 'chriskempson/base16-vim'
   Plugin 'molokai'
-  Plugin 'altercation/vim-colors-solarized'
+  Plugin 'ianmcnally/vim-colors-solarized'
   Plugin 'wgibbs/vim-irblack'
   Plugin 'chriskempson/vim-tomorrow-theme'
   Plugin 'candycode.vim'
